@@ -1,6 +1,6 @@
-<Version: 1.01>
+<Version: 1.02>
 /data/Map001 https://raw.githubusercontent.com/StudioRailgunGraphics/Version-1.X/master/Map001.json
 <End of Version>
-<Version: 1.02>
+<Version: 1.01>
 /data/Map001 https://raw.githubusercontent.com/StudioRailgunGraphics/Version-1.X/master/Map001.json
 <End of Version>
